@@ -1,0 +1,10 @@
+CACHE MANIFEST
+#v1.0.00 and counting!
+CACHE:
+resource/sencha/css/sencha-touch.css
+resource/kiva/css/application.css?1
+sencha-touch-all.js
+app.js
+resource/logo.png
+NETWORK:
+*
